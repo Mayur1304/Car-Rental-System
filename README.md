@@ -1,4 +1,4 @@
 # Car-Rental-System
 Mayur Jain
-Madhue Dukhande
+Madhur Dukhande
 Aryan Amin
